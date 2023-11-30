@@ -8,3 +8,8 @@ An LSTM model that recognizes alphabets from the American Sign Language using Me
 - scikit-learn
 
 **Installation**: `pip install tensorflow opencv-python scikit-learn numpy mediapipe`
+
+# Working
+After running the python notebook we get a webcam stream with the predicted alphabet displayed in the window as below:
+
+<img src="/assets/images/aslDemo.png" alt="image" width="40%" height="auto">
